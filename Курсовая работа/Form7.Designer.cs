@@ -199,9 +199,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button1.Location = new System.Drawing.Point(74, 452);
+            this.button1.Location = new System.Drawing.Point(66, 405);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(119, 49);
+            this.button1.Size = new System.Drawing.Size(119, 50);
             this.button1.TabIndex = 47;
             this.button1.Text = "Сохранить";
             this.button1.UseVisualStyleBackColor = true;
@@ -221,7 +221,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(263, 526);
+            this.ClientSize = new System.Drawing.Size(263, 467);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.label8);
